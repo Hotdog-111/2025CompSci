@@ -1,0 +1,5 @@
+Vanilla,22,2.65
+Chocolate,15,2.85
+Strawberry,18,2.55
+Mint,20,2.75
+Caramel,17,2.35
