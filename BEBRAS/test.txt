@@ -1,0 +1,57 @@
+Introduction
+A T-phile is someone who loves the letter “T”. It doesn’t matter whether the letter is in upper or lower case.
+
+Task
+Write a program that calculates the number of times the letters "T" and “t” appear in a given sentence.
+
+Input format
+A string containing a sentence, which can contain a mix of upper-case and lower-case letters.
+
+Output format
+A number representing the number of times the letters "T" and “t” occur in the sentence.
+
+Example
+Input
+Pizza is tasty
+Output
+2
+
+
+Introduction
+For a range of numbers, the “sum of even numbers” is calculated by adding up all the even numbers in the range.
+
+For example, if the range is 5, 6, 7, 8, 9, 10, 11, the sum of even numbers is 6 + 8 + 10 = 24.
+
+Task
+Write a program that calculates and outputs the sum of even numbers for a given range.
+
+Input format
+A string containing two numbers separated by a space. These numbers define the start and end of the range. The numbers will be whole numbers and can be negative or positive. The lowest number will always come first.
+
+Output format
+Output a number representing the sum of even numbers in the range.
+
+Example
+Input
+2 10
+Output
+30
+[Notes: Do not include text prompts for any inputs. For languages such as Java/C# which require a class definition, the main class should be called: solution.]
+
+Introduction
+A student is trying to improve their physical fitness and exercises every day. Each day, he records the length of his exercise session. He also tracks his “streaks”, which represent consecutive days where he exercised for at least as long as the previous day. When a streak is broken, the streak count resets to 1.
+
+Task
+Write a program that takes a sequence of numbers as input, where each number represents the total exercise time (in minutes) for the day. The program should determine the longest consecutive streak of days during which the workout time was the same as or more than the previous day’s workout time. A new streak starts from day 1.
+
+Input format
+A string containing a list of numbers separated by spaces. Each number represents the total exercise time (in minutes) for a day.
+
+Output format
+Output a single number representing the longest consecutive streak of days where the workout time met or exceeded the workout time of the previous day.
+
+Example
+Input
+70 80 90 95 85 75 100 105 110 90 95
+Output
+4
